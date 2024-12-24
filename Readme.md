@@ -32,9 +32,10 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-Запуск проекта:
+## Запуск проекта
 ```shell
 python manage.py runserver
 ```
 
+## Заключение
 Загрузка постов делается через админ панель по адресу /admin
